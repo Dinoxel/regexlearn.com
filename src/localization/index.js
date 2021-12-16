@@ -1,11 +1,13 @@
 import en from './en';
 import es from './es';
+import fr from './fr';
 import tr from './tr';
 import ru from './ru';
 
 const messages = {
   en,
   es,
+  fr,
   tr,
   ru,
 };
@@ -13,6 +15,7 @@ const messages = {
 export const langNames = {
   en: 'EN',
   es: 'ES',
+  fr: 'FR',
   tr: 'TR',
   ru: 'RU',
 };
